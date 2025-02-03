@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/AlbertoOrlando/node-hello-world.git"
   },
+  "keywords": [],
   "author": "Alberto",
   "license": "ISC",
   "bugs": {
